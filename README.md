@@ -1,4 +1,4 @@
-# VUE3 COMPONENT LIBRARY
+# VUE3 TOASTRS LIBRARY
 
 ## Instalation
 
@@ -23,7 +23,6 @@ You could now reference components in any Vue template of your project without i
 
 ```sh
 <template>
-    <InputText />
-    <InputTextarea />
+    <Toastr />
 </template>
 ```

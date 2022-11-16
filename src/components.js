@@ -1,4 +1,3 @@
-import InputText from "./InputText.vue";
-import InputTextarea from "./InputTextarea.vue";
+import Toastr from "./Toastr.vue";
 
-export default { InputTextarea, InputText };
+export default { Toastr };
